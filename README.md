@@ -10,3 +10,8 @@ problem's link : https://codeforces.com/gym/103503/problem/A
 Note : in this problem , I got the partial score : 20 pts
 
 ### Problem_2
+problem's link : https://codeforces.com/gym/103496/problem/A
+
+
+### Problem_3
+problem's link : https://codeforces.com/gym/103496/problem/B1
