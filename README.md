@@ -27,3 +27,9 @@ Note : in this problem , I got 0pts even if all test cases were correct hhhhh
 problem's link : https://codeforces.com/gym/103496/problem/F
 
 Note : in this problem , I got the partial score : 30 pts (I will update this solution asap :D)
+
+### Problem_6
+
+problem's link : https://codeforces.com/gym/103496/problem/D
+
+Note : in this problem , I got 0pts even if all test cases were correct hhhhh
